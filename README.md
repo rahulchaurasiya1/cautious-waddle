@@ -16,9 +16,3 @@ The dataset was created using <a href="http://www.eecs.qmul.ac.uk/~sgg/QMUL_Junc
 ![System Architecture of smart traffic junction](https://github.com/DevashishPrasad/Smart-Traffic-Junction/blob/master/SystemArch.png)
 ## Results
 <img src="result.png" width="450">
-
-## Contact
-Devashish Prasad : devashishkprasad [at] gmail [dot] com <br>
-Ayan Gadpal : ayangadpal2 [at] gmail [dot] com <br>
-Kshitij Kapadni : kshitij.kapadni [at] gmail [dot] com <br>
-Manish Visave : manishvisave149 [at] gmail [dot] com
