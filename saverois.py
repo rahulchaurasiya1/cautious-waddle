@@ -1,4 +1,4 @@
-mport cv2
+import cv2
 import numpy as np
 
 cap = cv2.VideoCapture('Junction2.avi')
